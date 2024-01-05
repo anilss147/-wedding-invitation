@@ -1,7 +1,5 @@
 # -wedding-invitation
 
-# Wedding Invitation
-
 ![Couple Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKcPfS3gVNEezDud5Qg5S-82z9jdElr7Bs3nEykXCFA&s)
 
 Dear Friends and Family,
