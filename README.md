@@ -8,7 +8,7 @@ We are excited to invite you to our wedding celebration!
 
 **Date:** [22/04/2024]
 **Time:** [12 PM]
-**Location:** [Aland]
+**Location:** [Arya Samaj , Aland]
 
 Please join us for a day filled with love, joy, and celebration.
 
